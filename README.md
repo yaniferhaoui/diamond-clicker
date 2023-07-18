@@ -15,4 +15,4 @@
 	aptos move test
 
 ## **Credits**
-- Yani FERHAOUI : https://www.linkedin.com/in/yani-f-77392415a/# diamond-clicker
+- Yani FERHAOUI : https://www.linkedin.com/in/yani-f-77392415a/
